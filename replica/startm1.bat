@@ -1,1 +1,1 @@
-mongod -f d:/tmp/m1.conf
+mongod -f ./m1.conf
