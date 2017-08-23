@@ -1,0 +1,1 @@
+mongod -f d:/tmp/m2.conf
