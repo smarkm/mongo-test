@@ -1,1 +1,1 @@
-mongod -f ./m3.conf
+mongod -f ./config/m3.conf

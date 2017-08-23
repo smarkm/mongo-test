@@ -1,1 +1,1 @@
-mongod -f ./m2.conf
+mongod -f ./config/m2.conf
