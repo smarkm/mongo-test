@@ -1,1 +1,1 @@
-mkdir m1 m2 m3
+mkdir m1 m2 m3 logs
